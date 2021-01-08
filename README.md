@@ -3,13 +3,11 @@
 
 - 👨‍🎓 I’m currently studing in [ITER](https://www.soa.ac.in/iter) <br>
 
-- 🔭 I’m currently working on **Android Development**
-
-- 🌱 I’m currently learning **kotlin**
+- 🔭 I’m currently working on **Android Development kotlin**
 
 - 👯 I’m looking to collaborate on **any android project**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything i'm ready to help**
 
 - 📫 How to reach me **princekupandey786@gmail.com**
 
