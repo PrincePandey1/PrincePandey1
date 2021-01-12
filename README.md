@@ -26,4 +26,4 @@
 ![](https://komarev.com/ghpvc/?username=PrincePandey1&color=green)
 
 <img src="https://github-readme-stats.vercel.app/api?username=PrincePandey1&count_private=true&show_icons=true&theme=chartreuse-dark" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PrincePandey&show_icons=true&layout=compact&theme=chartreuse-dark" alt="Most Used Languages">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PrincePandey1&show_icons=true&layout=compact&theme=chartreuse-dark" alt="Most Used Languages">
