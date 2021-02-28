@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm prince</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 - 👨‍🎓 I’m currently studing in [ITER](https://www.soa.ac.in/iter) <br>
 
