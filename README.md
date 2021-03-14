@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm prince</h1>
+<h1 align="center">Hi 👋, I'm Prince Kumar Pandey</h1>
 
 
 - 👨‍🎓 I’m currently studing in [ITER](https://www.soa.ac.in/iter) <br>
