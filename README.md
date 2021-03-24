@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar Pandey</h1>
 
 
-- 👨‍🎓 I’m currently studing in [ITER](https://www.soa.ac.in/iter) <br>
-
-- 🔭 I’m currently working on **Android Development kotlin**
+- 🔭 I’m currently working on **Android Development **
 
 - 👯 I’m looking to collaborate on **any android project**
 
