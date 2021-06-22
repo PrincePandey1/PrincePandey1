@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prince Kumar Pandey</h1>
+<h1 align="center">Hi 👋, I'm Prince</h1>
 
 
 - 🔭 I’m currently working on **Android Development **
