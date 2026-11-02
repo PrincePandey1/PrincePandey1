@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything i'm ready to help**
 
-- 📫 How to reach me **princekupandey786@gmail.com**
+- 📫 How to reach me **princekupandey12@gmail.com**
 
 - ⚡ Fun fact **always hungry to learn..**
 
